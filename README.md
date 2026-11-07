@@ -92,4 +92,4 @@ The app does not retrain models. It loads the saved pipelines from `model/` and 
 
 Deploy this repository through Streamlit Community Cloud and replace this line with the generated URL:
 
-`https://<your-app-name>.streamlit.app`
+`https://drybeanclassification-devaanshi-ml-project.streamlit.app/`
